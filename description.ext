@@ -1,0 +1,9 @@
+class CfgFunctions
+{
+	#include "BlueHud\CfgFunctions.hpp"
+};
+class RscTitles
+{
+	#include "BlueHud\RscTitles.hpp"
+};
+#include "BlueHud\BlueHudConfig.hpp"
